@@ -1,9 +1,11 @@
 {
   "name": "qa_wolf_take_home",
   "version": "1.0.0",
-  "description": "",
+  "description": "Playwright script to scrape and sort the first 100 articles on HackerNews",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node index.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
